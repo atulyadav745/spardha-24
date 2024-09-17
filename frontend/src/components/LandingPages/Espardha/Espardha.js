@@ -7,7 +7,7 @@ import controler from './img/control.png';
 import pdf from './ESPARDHA24.pdf'
 import freefire from './img/freefire.png'
 import bgmi from './img/bgmi.png'
-import valorent from './img/valorent.png'
+import valorent from './img/valorant.png'
 
 const Espardha = () => {
 
@@ -112,12 +112,12 @@ const Espardha = () => {
 
                   <div className={`${styles.contacts}`}>
                     <div className={`${styles.contact_card}`}>
-                      <h5>Dhruv Jain</h5>
-                      <p>+91 9548962930</p>
+                      <h5>Krishna</h5>
+                      <p>+91 7483686131</p>
                     </div>
                     <div className={`${styles.contact_card}`}>
-                      <h5>Devang Darpe</h5>
-                      <p>+91 6350107038</p>
+                      <h5>Aryan</h5>
+                      <p>+91 6375457623</p>
                     </div>
                   </div>
                 </div>
