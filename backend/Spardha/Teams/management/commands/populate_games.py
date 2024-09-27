@@ -38,6 +38,7 @@ class Command(BaseCommand):
             {"name": "Table Tennis", "game_type": "G", "min_players": 1, "max_players": 2},
             {"name": "Taekwondo", "game_type": "G", "min_players": 1, "max_players": 1},
             {"name": "Volleyball", "game_type": "G", "min_players": 6, "max_players": 6},
+            {"name": "Football", "game_type": "G", "min_players": 11, "max_players": 11},
 
             # Mixed games
             {"name": "Chess", "game_type": "M", "min_players": 1, "max_players": 1},
